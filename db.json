@@ -91,15 +91,6 @@
       "id": 10
     },
     {
-      "categoryId": 6,
-      "name": "Citroen",
-      "price": 65000,
-      "imageUrl": "https://www.citroen.com.tr/content/dam/citroen/master/b2c/models/new-c3/l-m/CitroenC3_2020_Sunset_2880_1531.jpg?imwidth=1920",
-      "description": "C4 Otomaik Vites Dizel",
-      "longDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-      "id": 11
-    },
-    {
       "categoryId": 3,
       "name": "Akıllı Saat",
       "price": 50,
@@ -144,10 +135,6 @@
       "id": 4,
       "name": "Giyim"
     },
-    {
-      "id": 6,
-      "name": "Araç"
-    }
   ],
   "users": [
     {
